@@ -1,14 +1,9 @@
-# novas ideias durante a quarentena
-página completa para adicionar ideias no momento de quarentena e apresentá-las com banco de dados, css, js, html
 
+# Ideias Criativas
 
-# Product Name
-> Short blurb about what your product does.
-[![author][npm-image]][https://github.com/felipelhol]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Author](https://img.shields.io/badge/author-Felipe%20Lima-red)](https://github.com/felipelhol)
 
-One to two paragraph statement about your product and what it does.
+> Página que permite adicionar novas atividades durante a quarentena
 
 
 
